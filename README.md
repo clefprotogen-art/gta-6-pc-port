@@ -38,4 +38,4 @@ Works on most Nvidia GPU's
 
 
 
-This is obviously a fake.
+This is obviously a fake... or is it?
