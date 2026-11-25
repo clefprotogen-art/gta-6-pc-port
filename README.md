@@ -18,8 +18,8 @@ OR make the file executable with your file manager (ex.: Dolphin) by, right-clic
 
 -----------Other--------
 
-Built in python
-Works on most Nvidia GPU's 
-Works on windows and linux (has some issues)
-Mac unfortunately won't be available 
-This is only a launcher, not the game itself..
+-Built in python
+-Works on most Nvidia GPU's 
+-Works on windows and linux (has some issues)
+-Mac unfortunately won't be available 
+-This is only a launcher, not the game itself..
